@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(242, 232, 251);
+    padding:30px 30px;
+}
+
+h1 {
+    font-family: 'Impact';
+    color:darkmagenta;
+}
+
+p, li {
+    font-family: 'Avenir', 'Helvetica', 'sans-serif';
+}
+
+img {
+    width: 80%;
+}
+
+h2 {
+    font-family: 'Impact';
+}
+
+.school-label {
+    font-size: 11px;
+    text-anchor: 'middle';
+}
