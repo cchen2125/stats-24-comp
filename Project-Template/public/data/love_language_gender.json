@@ -1,0 +1,23 @@
+{
+    "women": {
+        "Quality Time": 0.466,
+        "Physical Touch": 0.185,
+        "Acts of Service": 0.156,
+        "Words of Affirmation": 0.15,
+        "Gifts": 0.042
+    },
+    "men": {
+        "Quality Time": 0.514,
+        "Physical Touch": 0.303,
+        "Acts of Service": 0.077,
+        "Words of Affirmation": 0.081,
+        "Gifts": 0.025
+    },
+    "non-binary": {
+        "Quality Time": 0.5,
+        "Physical Touch": 0.248,
+        "Words of Affirmation": 0.115,
+        "Acts of Service": 0.107,
+        "Gifts": 0.03
+    }
+}
